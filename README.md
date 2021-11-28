@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gogo1701
-- 👀 I’m interested in something idk
-- 🌱 I’m currently learning on how to be sus
-- 💞️ I’m looking to collaborate on a game that will cost 19034343434$
+- 👀 I’m interested in something unreal engine 4
+- 🌱 I’m currently learning on blender and unreal engine 4
+- 💞️ I’m looking to collaborate on a game named SurBox
 - 📫 How to reach me gogo170109@gmail.com
 
 <!---
