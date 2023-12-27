@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++,C# and JS
 - 🌱 I’m currently learning C#, C++ and JS
 - 💞️ I’m looking to collaborate on any project releated to helping people.
-- 📫 How to reach me georgi.georgiev.highschool@svetlina.net
+- 📫 How to reach me georgi.georgiev.highschool@buditel.bg
 
 <!---
 gogo1701/gogo1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
