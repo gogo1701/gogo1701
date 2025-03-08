@@ -68,7 +68,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/gogo1701/gogo1701/output/snake.svg" alt="Snake animation" />
-
 ###
