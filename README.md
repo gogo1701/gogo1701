@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gogo1701&show_icons=true&locale=en&layout=compact" alt="gogo1701" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogo1701&show_icons=true&locale=en" alt="gogo1701" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gogo1701&" alt="gogo1701" /></p>
