@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TaskMate**
 
-- 🌱 I’m currently learning **Java, MC Modding**
+- 🌱 I’m currently learning **LVGL, Java, MC Modding**
 
 - 💬 Ask me about **C#, Lua, UE, ASP.NET, JS**
 
