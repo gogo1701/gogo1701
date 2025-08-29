@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1701&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gogo1701" alt="gogo1701" /></a> </p>
+- 🔭 I’m currently working on **TaskMate**
 
-- 🔭 I’m currently working on **ElectroLab**
+- 🌱 I’m currently learning **Java, MC Modding**
 
-- 🌱 I’m currently learning **ASP.NET, JS**
-
-- 💬 Ask me about **C#, Lua, UE**
+- 💬 Ask me about **C#, Lua, UE, ASP.NET, JS**
 
 - 📫 How to reach me **gogo170109@gmail.com**
 
