@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gogo1701&label=Profile%20views&color=0e75b6&style=flat" alt="gogo1701" /> </p>
 
--🏫 Student at **SoftUni BUDITEL**
+- 🏫 Student at **SoftUni BUDITEL**
 
 - 🔭 I’m currently working on **TaskMate**
 
