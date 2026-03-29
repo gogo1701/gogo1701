@@ -5,11 +5,11 @@
 
 - 🏫 Student at **SoftUni BUDITEL**
 
-- 🔭 I’m currently working on **TaskMate**
+- 🔭 I’m currently working on **VertexOS**
 
-- 🌱 I’m currently learning **LVGL, Java, MC Modding**
+- 🌱 I’m currently learning **ASM, C, Linux**
 
-- 💬 Ask me about **C#, Lua, UE, ASP.NET, JS**
+- 💬 Ask me about **C#, Lua, UE, ASP.NET, JS, EF**
 
 - 📫 How to reach me **gogo170109@gmail.com**
 
